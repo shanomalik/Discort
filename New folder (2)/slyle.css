@@ -1,0 +1,390 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-family: 'Black Ops One', cursive;
+}
+p{
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.body-main{
+
+    margin: auto    ;
+    overflow: hidden;
+    
+}
+.main-box{
+
+    background-color: rgba(0, 0, 255, 0.8);
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    overflow: hidden;
+    background-image: url('./sky.svg');
+    background-size: 2600px; 
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+    
+    
+    
+    
+}
+
+nav{
+
+    /* background-color:rgb(86, 86, 255); */
+    display: block;
+    margin-top: 15px;
+    width: 100%;
+    align-items: center;
+}
+.mainbox-nav{
+
+    display: inline-block;
+}
+.logosymbol{
+
+   display: inline-block;
+   color: white;
+   margin-left: 50px;
+   
+}
+.stilog{
+
+    font-size: 30px;
+    padding-top: 13px;
+}
+.labellogodos{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    font-size: 30px;
+}
+.menabar{
+
+    display: inline-block;
+}
+
+nav ul {
+
+
+    list-style-type: none;
+    margin: 0px  130px;
+    
+}
+nav ul li {
+
+    display: inline;
+    margin: 20px;
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.login{
+
+    background-color: white;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+    
+}
+.maintext{
+
+    width: 600px;
+    margin: 130px  auto 0px;
+    text-align: center;
+    
+    color: white;
+}
+.maintext h1{
+
+    font-family: 'Black Ops One', cursive;
+    font-size: 50px
+}
+.maintext p{
+
+    font-family: 'Lexend Deca', sans-serif;
+
+    font-size: 20px
+}
+.Download{
+
+    background-color: white;
+    border-radius: 30px;
+    padding:  0px 25px;
+    margin: 20px;
+    display: inline-block;
+    color: black;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 20px;
+
+
+}
+.dicon{
+
+    margin-right: 10px;
+    padding: 0px;
+}
+.d2{
+    
+    background-color: rgb(30, 30, 30);
+    border-radius: 30px;
+    padding: 0px 20px;
+    margin:  20px;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 20px;
+}
+
+.imageonepanga{
+
+    display: inline;
+    position: absolute;
+    left:  -360px;
+    top: 249px;
+
+
+}
+.imagetwopanga{
+
+    display: inline;
+    position: absolute;
+    right: -300px;
+    top: 239px;
+
+}
+.whitebox{
+
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    height: 600px;
+}
+.picturebox{
+
+    display: inline-block;
+    margin: auto;
+    
+}
+.img2text{
+
+    display: inline-block;
+    width: 300px;
+    
+    margin: auto;
+}
+.img2text h1{
+
+    font-family: 'Black Ops One', cursive;
+}
+.img2text p{
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+.graybox{
+
+    display: flex;
+    background-color: rgb(210, 210, 210);
+    align-items: center;
+    height: 600px;
+
+}
+.picturebox3{
+
+    display: inline-block;
+    margin: auto;
+    
+}
+.img3text{
+
+    display: inline-block;
+    width: 300px;
+    
+    margin: auto;
+    
+}
+.img3text h1{
+
+    font-family: 'Black Ops One', cursive;
+} 
+.img3text p{
+
+    font-family: 'Lexend Deca', sans-serif;
+} 
+.agwhitebox{
+
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    height: 600px;
+}
+.picturebox5{
+
+    display: inline-block;
+    margin: auto;
+    overflow: hidden;
+    
+}
+.img5text{
+
+    display: inline-block;
+    width: 300px;
+    
+    margin: auto;
+}
+.img5text h1{
+
+    font-family: 'Black Ops One', cursive;
+}
+.img5text p{
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+.image{
+
+    width: 600px;
+}
+.aggraybox{
+
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(210, 210, 210);
+    height: 1100px;
+}
+.img6text{
+
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+    padding: 100px 0px 0px 0px;
+    display: block;
+    
+}
+.img6text h1{
+
+    font-family: 'Black Ops One', cursive;
+    font-size: 45px;
+}
+.img6text p{
+
+    font-family: 'Lexend Deca', sans-serif;
+}
+.picturebox6{
+    text-align: center;
+    
+    margin: auto;
+    display: block;
+   
+}
+.Downloadbot{
+
+    background-color: rgb(111, 129, 235);
+    border-radius: 30px;
+    padding: 0px 20px;
+    margin: 20px;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+}
+.footer{
+
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    color: white;
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.onerow{
+
+    display: inline-block;
+    
+    width: 200px;
+   
+}
+
+.stylistul{
+
+    display: inline-block;
+    list-style-type: none;
+}
+.stylistul2{
+
+    margin: 20px;
+    
+}
+.bluecolor{
+
+    color: blue;
+}
+.onero{
+
+    display: block;
+    padding: 0px 20px;
+    width: 400px;
+    
+}
+
+.stylistu{
+
+    display: inline-block;
+    list-style-type: none;
+}
+.last1{
+
+    background-color: rgb(27, 27, 27);
+    display: block;
+    
+
+}
+.lastbox{
+
+    width: 1100px;
+    padding: 10px;
+    margin: 0px auto;
+    display: block;   
+    background-color:  rgb(27, 27, 27);
+    color: white;
+    border-top: 2px solid blue;
+}
+.signup{
+
+    background-color: rgb(180, 76, 255);
+    display: block;
+    border-radius: 15px;
+    padding: 10px 20px;
+    color: white;
+    float: right;
+    margin-top: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+    
+}
+.iconma{
+
+    font-size: 30px;
+    padding-top: 13px;
+}
+.loholabelbot{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    font-size: 30px;
+}
+.iconx{
+
+    margin: 30px 15px 0px;
+    font-size: 40px;
+
+}
+
+
+
